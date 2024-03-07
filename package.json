@@ -1,0 +1,30 @@
+{
+  "name": "instaclone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "firebase": "^10.8.1",
+    "next": "14.1.0",
+    "next-auth": "^4.24.6",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-file-picker": "^0.0.6",
+    "tailwind-scrollbar-hide": "^1.1.7"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "postcss": "^8",
+    "tailwind-scrollbar": "^3.1.0",
+    "tailwindcss": "^3.3.0"
+  }
+}
